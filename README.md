@@ -13,7 +13,8 @@
 
 ## 프로젝트 소개
 
-[↗️ 프로젝트 소개 페이지 보러가기](https://www.canva.com/design/DAGqbMRpHdk/jGZe6cLmZMBjApHkiiJCow/view?utm_content=DAGqbMRpHdk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfcccb5405f)  
-[↗️ 프로젝트 시연 영상](https://youtu.be/k55jn2DTt-Y?si=BxxQNxwkJ7AAp1HJ)  
-[↗️ "머신러닝을 활용한 네이버 블로그 기만 광고 감별 시스템", 문화기술의 융합(JCCT), 제12권 제1호, pp.455-462, 2026.](https://www.kci.go.kr/kciportal/mobile/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003301493)
+- [👩‍🏫 프로젝트 소개 페이지 보러가기](https://www.canva.com/design/DAGqbMRpHdk/jGZe6cLmZMBjApHkiiJCow/view?utm_content=DAGqbMRpHdk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfcccb5405f)  
+- [🖥️ 프로젝트 시연 영상](https://youtu.be/k55jn2DTt-Y?si=BxxQNxwkJ7AAp1HJ)  
+- [📃 "머신러닝을 활용한 네이버 블로그 기만 광고 감별 시스템", 문화기술의 융합(JCCT), 제12권 제1호, pp.455-462, 2026.](https://koreascience.or.kr/article/JAKO202605554097048.page)
  
+![광고감별기 소개](https://github.com/user-attachments/assets/dc3b1253-b646-492a-b9d7-e98030aac233)
